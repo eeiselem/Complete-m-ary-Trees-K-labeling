@@ -1,5 +1,4 @@
 # Complete-m-ary-Trees-K-labeling
-Goal: Implement B Tree to store at least 1000, most used English words.
 
 The best data-structure to store this tree in memory is as a number of nodes connected by edges, in other
 words, a tree data structure. The connected, hierarchical properties of this data structure make it ideal for the
